@@ -1,0 +1,15 @@
+round/107/68/287/248/java.awt.Color[r=255,g=255,b=51]/java.awt.Color[r=255,g=102,b=102]/5.0
+round/385/181/496/292/java.awt.Color[r=255,g=255,b=51]/java.awt.Color[r=255,g=102,b=102]/5.0
+round/206/364/356/514/java.awt.Color[r=255,g=255,b=51]/java.awt.Color[r=255,g=102,b=102]/5.0
+.
+rect/78/55/328/275/java.awt.Color[r=51,g=255,b=51]/java.awt.Color[r=255,g=255,b=255]/5.0
+rect/458/229/554/379/java.awt.Color[r=51,g=255,b=51]/java.awt.Color[r=255,g=255,b=255]/5.0
+rect/176/409/314/500/java.awt.Color[r=51,g=255,b=51]/java.awt.Color[r=102,g=255,b=255]/5.0
+word/367/104/496/183/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=153,g=153,b=255]/宋体/30/0/ nihao
+.
+oval/122/50/355/209/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=255,g=255,b=255]/10.0
+oval/441/253/441/253/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=255,g=255,b=255]/7.0
+oval/479/236/479/236/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=255,g=255,b=255]/7.0
+line/221/412/519/222/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=255,g=255,b=255]/7.0
+line/380/405/584/427/java.awt.Color[r=0,g=0,b=0]/java.awt.Color[r=255,g=255,b=255]/7.0
+.
